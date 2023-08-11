@@ -4,7 +4,7 @@ import React, { useEffect } from "react";
 import paris from "../assets/paris.jpg";
 import dubai from "../assets/dubai.jpg";
 import londan from "../assets/londan.jpg";
-import newyork from "../assets/newyork.jpg";
+import newyork from "../assets/NewYork.jpg";
 
 //Imported Travelers Images ========================================>
 import traveler1 from "../assets/traveler1.jpg";
